@@ -24,7 +24,7 @@ The entire results were tabulated into about 6 columns and sorted by the total n
 At the end of the season, it could be seen from the table that Man City had the highest number of points (93 points) and a goal difference of 73 which crowned them as the winner of 
 the league for the season followed by Liverpool, Chelsea and Tottenham making the top 4.
 
-![Graph](Top_4/Bar_Graph.jpg)
+![Graph](Images/Top_4.jpg)
 
 Norwich had the least point, followed by Watford and Burnley, relegating them to the lower division. 
 
